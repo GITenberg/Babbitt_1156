@@ -1,0 +1,46 @@
+_repo: Babbitt_1156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: http://en.wikipedia.org/wiki/Sinclair_Lewis
+description: "Babbitt, first published in 1922, is a novel by Sinclair Lewis. Largely\
+  \ a satire of American culture, society, and behavior, it critiques the vacuity\
+  \ of middle-class American life and its pressure toward conformity. An immediate\
+  \ and controversial bestseller, Babbitt was influential in the decision to award\
+  \ Lewis the Nobel Prize in literature in 1930.\nThe word \"Babbitt\" entered the\
+  \ English language as a \"person and especially a business or professional man who\
+  \ conforms unthinkingly to prevailing middle-class standards\".\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2002-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1156'
+  wikidata: Q1107000
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle-aged men -- Fiction'
+- !lcsh 'Conformity -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Satire'
+- GITenberg
+title: Babbitt
+url: http://www.gutenberg.org/ebooks/1156
+wikipedia:
+- https://fr.wikipedia.org/wiki/Babbitt_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%8A%D8%AA_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/Babbitt_(livro)
+- https://en.wikipedia.org/wiki/Babbitt_(novel)
+- https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%88%E0%A8%AC%E0%A8%BF%E0%A8%9F_(%E0%A8%A8%E0%A8%BE%E0%A8%B5%E0%A8%B2)
+- https://it.wikipedia.org/wiki/Babbit
